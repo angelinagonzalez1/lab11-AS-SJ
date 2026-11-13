@@ -5,7 +5,7 @@ calculator.py
 One function per operation, in order.
 """
 
-# https://github.com/angelinagonzalez1/lab11-AS-SJ.git
+# https://github.com/angelinagonzalez1/lab11-AS-SJ
 # Partner 1: Sydney Jacobson
 # Partner 2: Angelina Schmutz-Gonzalez
 
