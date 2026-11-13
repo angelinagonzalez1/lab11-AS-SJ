@@ -4,6 +4,11 @@ calculator.py
 
 One function per operation, in order.
 """
+
+# https://github.com/angelinagonzalez1/lab11-AS-SJ.git
+# Partner 1: Sydney Jacobson
+# Partner 2: Angelina Schmutz-Gonzalez
+
 import math
 
 def add(a, b):

@@ -1,3 +1,7 @@
+# https://github.com/angelinagonzalez1/lab11-AS-SJ.git
+# Partner 1: Sydney Jacobson
+# Partner 2: Angelina Schmutz-Gonzalez
+
 import unittest
 from calculator import *
 
